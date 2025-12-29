@@ -11,7 +11,7 @@
 ## Project Story / Background
 
 This project started as an experiment and quickly turned into a learning-heavy experience.
-Gil originally wanted to try **3D development** using an engine he had previously only used for **2D projects**. While he quickly realized that working in 3D was far more complex than expected (and mildly regrettable at times), it became a valuable learning experience.
+Gil wanted to try **3D development** using an engine he had previously only used for **2D projects**. While he quickly realized that working in 3D was far more complex than expected (and mildly regrettable at times with the addition of it being multiplayer based), it became a valuable learning experience for future projects.
 
 The project also marked **our first time developing a multiplayer game**, which introduced additional challenges such as player synchronization, networking logic, and state handling. Although multiplayer was complicated to implement, the process helped us better understand how real-time multiplayer systems function, especially in a 3D environment.
 
