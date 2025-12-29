@@ -21,7 +21,7 @@ Despite the difficulties, the project succeeded in combining basic FPS mechanics
 * **Game Engine:** Godot Engine (3D)
 * **Language:** GDScript
 * **Multiplayer:** ENet (Godot built-in multiplayer API)
-* **Platform:** Web export
+* **Platform:** Web export/ Desktop Executable
 * **Deployment:** Vercel
 * **Version Control:** GitHub
 
