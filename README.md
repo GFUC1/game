@@ -1,4 +1,6 @@
+
 ---
+
 ## Team Members & Roles
 
 * **Zoriel Banquil** – 3D Modeling
@@ -38,4 +40,5 @@ Despite the difficulties, the project succeeded in combining basic FPS mechanics
 
 1. Literally just run the .exe file... - https://drive.google.com/file/d/1J-RNZV1y9h7WXledpQ-DsEl8K7aa_k97/view?usp=sharing
 2. Create or join a multiplayer session
+
 ---
