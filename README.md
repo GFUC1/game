@@ -29,12 +29,12 @@ Despite the difficulties, the project succeeded in combining basic FPS mechanics
 
 ## Installation & Running the Project
 
-### Option 1: Web Version
+### Option 1: Web Version (Can work as client)
 
 1. Open the deployed link hosted on **Vercel** - https://potatofpsgame.vercel.app/Potato-FPS.html
 2. Create or join a multiplayer session directly in the browser
 
-### Option 2: Local Setup
+### Option 2: Local Setup (Full LAN Support)
 
 1. Literally just run the .exe file... - https://drive.google.com/file/d/1J-RNZV1y9h7WXledpQ-DsEl8K7aa_k97/view?usp=sharing
 2. Create or join a multiplayer session
